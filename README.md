@@ -57,7 +57,7 @@ A demonstration utilizing `OTP/JWTs` + `Node/Express` + `Swagger/ESDocs` + `Sequ
 Download or clone the repo using the following command:
 
 ```sh
-git clone git@github.com:ustincameron/student-ticketing-api.git
+git clone git@github.com:ustincameron/ustincameron/student_ticketing_api.git
 ```
 
 - Open project folder
