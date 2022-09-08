@@ -1,0 +1,16 @@
+{
+  "valid": {
+    "email": "hello@example.com",
+    "phoneNumber": "123-456-7890",
+    "firstName": "Steve",
+    "lastName": "Jobs",
+    "building": "Building A1",
+    "room": "Room A321",
+    "bed": "Bed 3",
+    "active": true
+  },
+  "schemaError": {
+    "firstNames": "Steve",
+    "lastName": "Jobs",
+  }
+}
