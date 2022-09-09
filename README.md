@@ -108,4 +108,4 @@ git clone git@github.com:ustincameron/ustincameron/student_ticketing_api.git
   npm run migration:undo
   ```
 
-Thanks to [Chetan07j](https://github.com/Chetan07j) for the initial boiletplate.
+Thanks to [Chetan07j](https://github.com/Chetan07j) for the initial boilerplate.
